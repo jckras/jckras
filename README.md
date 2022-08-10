@@ -1,5 +1,4 @@
 ### Hi there 👋
-I'm Julie :red_haired_woman:	
 - :books: I’m currently reading "Cracking the coding Interview!"
 - :woman_technologist: I’m currently studying EECS 281 at UMICH
 - :deciduous_tree:	 I’m looking to collaborate on Any Open Source Project
