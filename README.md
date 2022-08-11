@@ -6,7 +6,7 @@
 - :thought_balloon:	Ask me about mental health research and poetry!
 - :link: Connect with me on [LinkedIn](https://www.linkedin.com/in/julie-krasnick/)
 - :slightly_smiling_face: Pronouns: She/her/hers
-- :partying_face:	I love :chocolate_bar:, :mountain:,:tennis:		
+	
 
 <!--
 **jckras/jckras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
