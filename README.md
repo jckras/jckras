@@ -1,6 +1,6 @@
 ### Hi there 👋
 - :woman_technologist: I recently studied EECS 281 at UMICH
-- :deciduous_tree:	 I'm interested in using CS for accessibility
+- 😃:	 I'm interested in using CS for accessibility
 - 🤔 I’m looking to collaborate on Any Open Source Project
 - :thought_balloon:	Ask me about mental health research and poetry!
 - :link: Connect with me on [LinkedIn](https://www.linkedin.com/in/julie-krasnick/)
