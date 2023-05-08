@@ -1,6 +1,5 @@
 ### Hi there 👋
-- :books: I’m currently reading "Cracking the coding Interview!"
-- :woman_technologist: I’m currently studying EECS 281 at UMICH
+- :woman_technologist: I recently studied EECS 281 at UMICH
 - :deciduous_tree:	 I’m looking to collaborate on Any Open Source Project
 - 🤔 I’m looking for help with SWE internship recruiting and concepts of DSA
 - :thought_balloon:	Ask me about mental health research and poetry!
