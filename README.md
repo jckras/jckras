@@ -1,5 +1,4 @@
 ### Hi there 👋
-- :woman_technologist: I am currently learning how to use Robots to make the world a better place!
 - 😃:	 I'm interested in using CS for accessibility
 - 🤔 I’m looking to collaborate on Any Open Source Project
 - :thought_balloon:	Ask me about mental health research and poetry!
